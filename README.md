@@ -27,3 +27,6 @@ This is a simple web-based Wishlist application that allows users to add, mark a
 1.  Clone this repository to your local machine.
 2.  Navigate to the project directory.
 3.  Open `index.html` in your web browser.
+
+##deploy on 
+https://wishlist-gzqz.onrender.com
